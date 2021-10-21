@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ABHISHEK-SIN-GH
-- 👀 I’m interested in Web-development
-- 🌱 I’m currently learning Django 
+- 👀 I’m interested in software-development
+- 🌱 I’m currently learning Android Development 
 - 📫 How to reach me ...singh.abhishek151019@gmail.com
 
 <!---
