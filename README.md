@@ -6,10 +6,6 @@
 
 ###
 
-<h2 align="left">About Me</h2>
-
-###
-
 <p align="left">
   🔭 I’m currently working on <a href="https://dreel.co" target="_blank">Dreel.Co</a><br><br>
   🌱 I’m currently learning Advanced machine learning techniques and exploring serverless architecture on AWS.<br><br>
