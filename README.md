@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Dreel.Co<br><br>🌱 I’m currently learning Advanced machine learning techniques and exploring serverless architecture on AWS.<br><br>👨‍💻 All of my projects are available at abhishek.dreel.co<br><br>💬 Ask me about Fullstack development, cloud solutions, and best practices in web and app development.<br><br>📫 How to reach me singh.abhishek151019@gmail.com<br><br>📄 Know about my experiences abhishek.dreel.co/resume<br><br>⚡ Fun fact I enjoy reverse engineering applications to understand their inner workings.</p>
+<p align="left">🔭 I’m currently working on [Dreel.Co](https://dreel.co)<br><br>🌱 I’m currently learning Advanced machine learning techniques and exploring serverless architecture on AWS.<br><br>👨‍💻 All of my projects are available at abhishek.dreel.co<br><br>💬 Ask me about Fullstack development, cloud solutions, and best practices in web and app development.<br><br>📫 How to reach me singh.abhishek151019@gmail.com<br><br>📄 Know about my experiences abhishek.dreel.co/resume<br><br>⚡ Fun fact I enjoy reverse engineering applications to understand their inner workings.</p>
 
 ###
 
