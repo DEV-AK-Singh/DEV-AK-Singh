@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-  🔭 I’m currently working on <a href="https://dreel.co" target="_blank">Dreel.co</a><br><br>
+  🔭 I’m currently working on <a href="https://dreel.co" target="_blank">Dreel.Co</a><br><br>
   🌱 I’m currently learning Advanced machine learning techniques and exploring serverless architecture on AWS.<br><br>
   👨‍💻 All of my projects are available at <a href="https://github.com/ABHISHEK-SIN-GH" target="_blank">abhishek.dreel.co</a><br><br>
   💬 Ask me about Fullstack development, cloud solutions, and best practices in web and app development.<br><br>
