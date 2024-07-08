@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="center">About Me</h2>
 
 ###
 
@@ -21,11 +21,11 @@
 
 ###
 
-<h2 align="left">Tools and Technologies</h2>
+<h2 align="center">Tools and Technologies</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="72" alt="html5 logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="72" alt="css3 logo"  />
@@ -94,7 +94,7 @@
 
 ###
 
-<h2 align="left">Profile Stats</h2>
+<h2 align="center">Profile Stats</h2>
 
 ###
 
@@ -105,7 +105,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="center">Social Media</h2>
 
 ###
 
