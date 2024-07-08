@@ -3,8 +3,8 @@
 ###
 
 <p align="center">MERN Fullstack Software Developer | Specializing in Modern Web Technologies & Cloud Solutions</p>
+
 <hr>
-###
 
 <p align="left">
   🔭 I’m currently working on <a href="https://dreel.co" target="_blank">Dreel.Co</a><br><br>
