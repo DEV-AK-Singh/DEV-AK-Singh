@@ -26,61 +26,61 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="72" alt="html5 logo"  />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="72" alt="css3 logo"  />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="72" alt="javascript logo"  />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="72" alt="typescript logo"  />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="72" alt="bootstrap logo"  />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="72" alt="tailwindcss logo"  />
-  <img width="48" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="72" alt="react logo"  />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="72" alt="nextjs logo"  />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=express" height="72" alt="express logo"  />
-  <img width="48" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="72" alt="nodejs logo"  />
-  <img width="48" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="72" alt="mongodb logo"  />
-  <img width="48" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="72" alt="firebase logo"  />
-  <img width="48" />
-  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="72" alt="appwrite logo"  />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="72" alt="mysql logo"  />
-  <img width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="72" alt="postgresql logo"  />
-  <img width="48" />
-  <img src="https://cdn.simpleicons.org/graphql/E10098" height="72" alt="graphql logo"  />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=py" height="72" alt="python logo"  />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=django" height="72" alt="django logo"  />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=flask" height="72" alt="flask logo"  />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=figma" height="72" alt="figma logo"  />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=postman" height="72" alt="postman logo"  />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=docker" height="72" alt="docker logo"  />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="72" alt="kubernetes logo"  />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="72" alt="apachekafka logo"  />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=redis" height="72" alt="redis logo"  />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="72" alt="jenkins logo"  />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=aws" height="72" alt="amazonwebservices logo"  />
-  <img width="48" />
-  <img src="https://skillicons.dev/icons?i=azure" height="72" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="64" alt="html5 logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="64" alt="css3 logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64" alt="javascript logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="64" alt="typescript logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="64" alt="bootstrap logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="64" alt="tailwindcss logo"  />
+  <img width="24" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="64" alt="react logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="64" alt="nextjs logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=express" height="64" alt="express logo"  />
+  <img width="24" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="64" alt="nodejs logo"  />
+  <img width="24" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A224" height="64" alt="mongodb logo"  />
+  <img width="24" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="64" alt="firebase logo"  />
+  <img width="24" />
+  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="64" alt="appwrite logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="64" alt="mysql logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="64" alt="postgresql logo"  />
+  <img width="24" />
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="64" alt="graphql logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=py" height="64" alt="python logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=django" height="64" alt="django logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=flask" height="64" alt="flask logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=figma" height="64" alt="figma logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=postman" height="64" alt="postman logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=docker" height="64" alt="docker logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="64" alt="kubernetes logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="64" alt="apachekafka logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=redis" height="64" alt="redis logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="64" alt="jenkins logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=aws" height="64" alt="amazonwebservices logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=azure" height="64" alt="azure logo"  />
 </div>
 
 ###
