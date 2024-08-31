@@ -30,7 +30,7 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="72" alt="typescript logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="72" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="72" alt="golang logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="72" alt="tailwindcss logo"  />
   <img width="16" />
