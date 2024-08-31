@@ -9,10 +9,10 @@
 <p align="left">
   🔭 I’m currently working on <a href="https://dreel.co" target="_blank">Dreel.Co</a><br><br>
   🌱 I’m currently learning Advanced machine learning techniques and exploring serverless architecture on AWS.<br><br>
-  👨‍💻 All of my projects are available at <a href="https://github.com/ABHISHEK-SIN-GH" target="_blank">abhishek.dreel.co</a><br><br>
+  👨‍💻 All of my projects are available at <a href="https://github.com/DEV-AK-Singh" target="_blank">abhishek.dreel.co</a><br><br>
   💬 Ask me about Fullstack development, cloud solutions, and best practices in web and app development.<br><br>
   📫 How to reach me <a href="mailto:singh.abhishek151019@gmail.com" target="_blank">singh.abhishek151019@gmail.com</a><br><br>
-  📄 Know about my experiences <a href="https://github.com/ABHISHEK-SIN-GH" target="_blank">abhishek.dreel.co/resume</a><br><br>
+  📄 Know about my experiences <a href="https://github.com/DEV-AK-Singh" target="_blank">abhishek.dreel.co/resume</a><br><br>
   ⚡ Fun fact I enjoy reverse engineering applications to understand their inner workings.</p>
 
 ###
@@ -95,8 +95,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABHISHEK-SIN-GH&hide_title=false&hide_rank=false&show_icons=trueinclude_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ABHISHEK-SIN-GH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DEV-AK-Singh&hide_title=false&hide_rank=false&show_icons=trueinclude_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DEV-AK-Singh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
