@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">MERN Fullstack Software Developer <br> Specializing in Modern Web Technologies & Cloud Solutions</h2>
+<h3 align="center">MERN Fullstack Software Developer <br> Specializing in Modern Web Technologies & Cloud Solutions</h3>
 
 <hr>
 
