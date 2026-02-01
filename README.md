@@ -1,58 +1,39 @@
-<h1 align="center">Hey, I’m Abhishek 👋</h1>
+<h1 align="center">hey, i'm abhishek.</h1>
 
 <p align="center">
-Founding Engineer • Systems Builder • 0→1 Products
+  <b>Founding Engineer @ <a href="https://cortix.dev" target="_blank">Cortix</a></b><br>
+  Systems • Infra • 0→1 Products
 </p>
 
----
+<br>
 
-### currently
-- building **Cortix**
-- backend-first systems
-- async workflows
-- infra & orchestration
+> Currently building **Cortix**. Focused on distributed orchestration, backend scalability, and systems that don't break at 3 AM.
 
 ---
 
-### focus
-- APIs & services
-- queues & workers
-- databases & schemas
-- failure handling
-- idempotent design
-- production debugging
+### ⚡ the toolbox
+I prefer simple, boring architecture until complexity is absolutely necessary.
 
----
+| **Core Stack** | **System Focus** |
+| :--- | :--- |
+| **Languages:** Python, TypeScript | **Reliability:** Idempotency, Dead Letter Queues |
+| **Backend:** Node/Nest, Django | **Data:** Schema Design, Locking Strategies |
+| **Infra:** AWS, Docker, CI/CD | **Pattern:** Async Workflows, Event Sourcing |
+| **Store:** Postgres, Redis | **Ops:** Observability, Production Debugging |
 
-### experience
-- early-stage startups
-- founding engineer
-- AI pipelines
-- media processing
-- full-stack SaaS
-- payments & infra
+<br>
 
----
+### 🧠 engineering mindset
+* **Boring Systems:** I choose boring technology because it works.
+* **Ship Fast:** Perfect is the enemy of shipped. I build for the 6-month horizon.
+* **Debug Deeply:** I need to understand the abstraction layer below the one I'm working on.
+* **Ownership:** Full accountability from `git init` to user feedback.
 
-### tech
-- **languages:** Python, TypeScript
-- **backend:** Node, Nest, Django
-- **data:** Postgres, Redis
-- **AI:** LLMs, voice, video
-- **infra:** Docker, AWS, CI/CD
+<br>
 
----
-
-### mindset
-- ownership driven
-- ship fast
-- debug deeply
-- boring systems
-- real users
-
----
-
-### connect
-- github: https://github.com/DEV-AK-Singh
-- linkedin: https://www.linkedin.com/in/dev-ak-singh
-- mail: singh.abhishek151019@gmail.com
+### 📍 connect
+<p align="left">
+  <a href="https://github.com/DEV-AK-Singh"><b>github</b></a> &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/dev-ak-singh"><b>linkedin</b></a> &nbsp; • &nbsp;
+  <a href="mailto:singh.abhishek151019@gmail.com"><b>mail</b></a>
+</p>
